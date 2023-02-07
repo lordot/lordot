@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitrii!</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordot&label=Profile%20views&color=0e75b6&style=flat" alt="lordot" /> </p>
 
 - 🔭 I’m currently working on [Travel Bot](https://github.com/lordot/Travel-Currency-Bot)
 
