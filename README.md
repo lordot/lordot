@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lordot&show_icons=true&locale=en" alt="lordot" /></p>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.herokuapp.com/?user=lordot&" alt="lordot" /></p>
+
