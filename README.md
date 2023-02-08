@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any of my projects**
 
-- 🤝 I’m looking for help with **Flask Framework**
+- 🤝 I’m looking for help with **SQLAlchemy**
 
 - 💬 Ask me about **Django**
 
