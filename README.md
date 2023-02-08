@@ -2,19 +2,13 @@
 <h3 align="center">A passionate backend developer from Russia</h3>
 
 
-- 🔭 I’m currently working on [Travel Bot](https://github.com/lordot/Travel-Currency-Bot)
-
-- 🌱 I’m currently learning **SQLAlchemy**
-
-- 👯 I’m looking to collaborate on **any of my projects**
-
-- 🤝 I’m looking for help with **SQLAlchemy**
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **@dmkvo**
-
-- ⚡ Fun fact **A one-way trip on the Trans-Siberian Railway involves crossing 3,901 bridges**
+- I’m currently working on [Travel Bot](https://github.com/lordot/Travel-Currency-Bot)
+- I’m currently learning **SQLAlchemy**
+- I’m looking to collaborate on **any of my projects**
+- I’m looking for help with **SQLAlchemy**
+- Ask me about **Django**
+- How to reach me **@dmkvo**
+- Fun fact **A one-way trip on the Trans-Siberian Railway involves crossing 3,901 bridges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
