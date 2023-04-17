@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Russia</h3>
 
 
-- I’m currently working on [Travel Bot](https://github.com/lordot/Travel-Currency-Bot)
+- I’m currently working on [EatDeal](https://github.com/lordot/eatdeal) and [Travel Bot](https://github.com/lordot/Travel-Currency-Bot)
 - I’m currently learning **SQLAlchemy**
 - I’m looking to collaborate on **any of my projects**
 - I’m looking for help with **SQLAlchemy**
