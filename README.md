@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend developer from Russia</h3>
 
 
-- I’m currently working on **[EatDeal](https://github.com/lordot/eatdeal)** and **[Travel Bot](https://github.com/lordot/Travel-Currency-Bot)**
-- I’m currently learning **SQLAlchemy**
-- I’m looking to frontend developer on **[EatDeal](https://github.com/lordot/eatdeal)**
+- I’m currently working on **[EatDeal](https://github.com/lordot/eatdeal)** and **[Sensei Backend](https://github.com/lordot/sensei-backend)**
+- I’m currently learning **FastAPI**
+- I’m looking to frontend developer on **[Sensei Backend](https://github.com/lordot/sensei-backend)**
 - I’m looking for help with **SQLAlchemy**
 - Ask me about **Django**
 - How to reach me **@dmkvo**
