@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dmitrii!</h1>
-<h3 align="center">A passionate backend developer from Russia</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 
 - I’m currently working on **[EatDeal](https://github.com/lordot/eatdeal)** and **[Sensei Backend](https://github.com/lordot/sensei-backend)**
