@@ -7,7 +7,7 @@
 - I’m looking to frontend developer and ux/ui designer on **[Sensei Backend](https://github.com/lordot/sensei-backend)**
 - I’m looking for help with **SQLAlchemy**
 - Ask me about **Django**
-- How to reach me **@dmkvo**
+- How to reach me **@dmkvo** in telegram
 - Fun fact **A one-way trip on the Trans-Siberian Railway involves crossing 3,901 bridges**
 
 
