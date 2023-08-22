@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer</h3>
 
 
-- I’m currently working on **[Ankizlet](https://github.com/lordot/eatdeal)** and **[Sensei Backend](https://github.com/lordot/sensei-backend)**
+- I’m currently working on **[Ankizlet](https://github.com/lordot/Ankizlet)** and **[Sensei Backend](https://github.com/lordot/sensei-backend)**
 - I’m currently learning **FastAPI**
 - I’m looking to frontend developer and ux/ui designer on **[Sensei Backend](https://github.com/lordot/sensei-backend)**
 - I’m looking for help with **SQLAlchemy**
